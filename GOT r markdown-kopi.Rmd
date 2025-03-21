@@ -1,6 +1,6 @@
 ---
 title: "GOT"
-author: "Faris Piric"
+author: "Sofie Eriksen"
 date: "2025-03-21"
 output: html_document
 ---
